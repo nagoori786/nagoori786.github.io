@@ -157,6 +157,7 @@ footer{
 }
 .figure{
 	flex: 1;
+	margin: 3px;
 }
 figure{
 	margin: 0px;
