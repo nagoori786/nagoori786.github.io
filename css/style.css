@@ -161,9 +161,10 @@ footer{
 }
 figure{
 	margin: 0px;
+	padding-right: 0px;
 }
 figure img{
-	width: 310px;
+	width: 300px;
 	height: 300px;
 }
 
